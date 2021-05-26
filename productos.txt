@@ -1,0 +1,1 @@
+{0=Nombre: pollo Precio: 3.0 Costo IVA: 0.39, 1=Nombre: cafe Precio: 4.0 Costo IVA: 0.52, 2=Nombre: soda Precio: 5.0 Costo IVA: 0.65}
